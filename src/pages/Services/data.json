@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Phone"
+  },
+  {
+    "id": 2,
+    "name": "Computer"
+  },
+  {
+    "id": 3,
+    "name": "Ipad"
+  },
+  {
+    "id": 4,
+    "name": "Notebook"
+  }
+]
